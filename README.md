@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find me on <a rel="me" href="https://masto.ai/@fabio">Mastodon</a>.
+
 <!--
 **morbec/morbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
